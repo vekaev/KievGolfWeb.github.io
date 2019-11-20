@@ -754,7 +754,7 @@ footer .designby-part .map a {
   .content .reservation-block {
     -webkit-box-shadow: 0px 4px 30px rgba(142, 142, 142, 0.25);
             box-shadow: 0px 4px 30px rgba(142, 142, 142, 0.25);
-    margin-top: -100px;
+    margin-top: -85px;
   }
   .content .reservation-block .set-part {
     display: none;
